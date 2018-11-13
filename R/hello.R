@@ -45,6 +45,7 @@ square <- function(x){
 
 #' Sample code
 #'
+#' this is more sample code
 #' @return
 #' @export
 #'
